@@ -98,7 +98,7 @@ a {
     font-size: 1.8rem;
     line-height: 1.5;
     letter-spacing: 0.01em;
-    color: #687690;
+    color: #687691;
 }
 .hero .info .title {
     margin-top: 8px;
@@ -655,4 +655,24 @@ a {
     font-weight: 400;
     font-size: 1.14rem;
     color: #c2c2c2;
+}
+.designer {
+    position: relative;
+    top: 30px;
+    justify-content: center;
+
+    font-weight: 400;
+    font-size: 1.14rem;
+    color: #c2c2c2;
+}
+.title-design {
+    font-weight: 400;
+    font-size: 1.14rem;
+    color: #c2c2c2;
+}
+.designer .name {
+    padding-left: 15px;
+    font-weight: 400;
+    font-size: 1.45rem;
+    text-decoration: 1px dashed #000000;
 }
